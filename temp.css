@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+
+body{
+    font-family: 'Baloo 2', cursive;  
+    background-color:#ECF2FF;
+
+}
+.container{
+    position:relative;
+    top:80px;
+    left:300px;
+    height:500px;
+    width:900px;
+    border:2px solid black;
+    padding:20px;
+    border-radius: 10px;
+    background-color:#E3DFFD;
+    box-shadow: 0 26px 58px 0 rgba(0, 0, 0, .22), 0 5px 14px 0 rgba(0, 0, 0, .18);
+
+}
+#p1{
+    font-size: 50px;
+    position:relative;
+    top:-40px; 
+    left:100px;
+    font-family: 'Bungee Spice', cursive;
+}
+#hr{
+    position:relative;
+    top:-70px;
+}
+.number{
+    height:60px;
+    width:250px;
+    position:relative;
+    border-color: grey;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #E5D1FA;
+    font-size: 20px;
+}
+.temp{
+    position:relative;
+    top:63px;
+    height:60px;
+    width:257px;
+    font-size: 20px;
+    background-color: rgb(237, 236, 236);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #E5D1FA;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.15), 0 2px 2px rgba(0,0,0,0.15), 0 4px 4px rgba(0,0,0,0.15), 0 8px 8px rgba(0,0,0,0.15);
+
+}
+#number1{
+    position:relative;
+    left:50px;
+}
+
+#temp1{
+    position:relative;
+    left:-210px;
+}
+#p2{
+    position:relative;
+    top:-80px;
+    left:400px;
+    font-size: 40px;
+
+}
+#temp2{
+    position:relative;
+    left:500px;
+    top:-237px;
+}
+#number2{
+    position:relative;
+    left:500px;
+    top:-215px;
+}
+
+button{
+    width:150px;
+    height:50px;
+    font-size: 20px;
+    position:relative;
+    left:70px;
+    top:-100px;
+    border-radius: 10px;
+    border-color: grey;
+    background-color: #FFF4D2;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.15), 0 2px 2px rgba(0,0,0,0.15), 0 4px 4px rgba(0,0,0,0.15), 0 8px 8px rgba(0,0,0,0.15);
+    
+}
+#pm{
+    position:relative;
+    top:-290px;
+    left:510px;
+    font-size: 22px;
+    
+} 
+
+
